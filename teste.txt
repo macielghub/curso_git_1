@@ -7,3 +7,6 @@ enviando
 a
 funcionalidade
 X
+funcionalidade
+b
+pronta
