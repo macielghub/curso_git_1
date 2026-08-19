@@ -14,8 +14,8 @@ __Melhoria 1__, _Melhoria 2_
 
 ### Linguagens do projeto:
 
-*HTML
-*CSS
-*JavaScript
-*PHP
-*MySQL
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
