@@ -30,4 +30,4 @@ Funcionalidades a desenvolver:
 
 #### Imagem Local
 
-![Logo do OpenLDAP](img/OpenLDAP_logo.png)
+![Logo do OpenLDAP](img/OpenLDAP_Logo.png)
