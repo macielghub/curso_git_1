@@ -32,4 +32,4 @@ Funcionalidades a desenvolver:
 
 ![Logo do OpenLDAP](img/OpenLDAP_Logo.png)
 
-![Logo do RedHat](https://www.redhat.com/pt-br/about/brand/new-brand/details)
+![Logo do RedHat](https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg)
