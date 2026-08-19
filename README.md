@@ -10,4 +10,4 @@ _checkout, **tela de produto**, Catálogo, Home banner_
 
 ###### Melhorias:
 
-Melhoria 1, Melhoria 2
+__Melhoria 1__, _Melhoria 2_
