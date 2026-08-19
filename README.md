@@ -31,3 +31,5 @@ Funcionalidades a desenvolver:
 #### Imagem Local
 
 ![Logo do OpenLDAP](img/OpenLDAP_Logo.png)
+
+![Logo do RedHat](https://www.redhat.com/pt-br/about/brand/new-brand/details)
