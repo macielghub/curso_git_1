@@ -27,3 +27,7 @@ Funcionalidades a desenvolver:
     2. Desconto especial  para grupo de cliente
 2. Intergração com outros produtos
 3. Sistema de bônus primeira compra
+
+#### Imagem Local
+
+![Logo do Paython](img/python.png)
