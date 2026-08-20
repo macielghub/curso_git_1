@@ -56,6 +56,6 @@ funciton soma(a, b) {
 
 - [x] Área de membros
 - [ ] Login Diferente para grupo de cliente
-- [ ]Desconto especial  para grupo de cliente
-- [ ]Intergração com outros produtos
-- [x]Sistema de bônus primeira compra
+- [ ] Desconto especial  para grupo de cliente
+- [ ] Intergração com outros produtos
+- [x] Sistema de bônus primeira compra
