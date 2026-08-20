@@ -44,3 +44,10 @@ Meu projeto: https://github.com/macielghub/curso_git_1
 
 [![Logo do OpenLDAP](img/OpenLDAP_Logo.png)](http://openldap.org)
 
+## Segue código:
+
+```javascript
+funciton soma(a, b) {
+    return a + b
+}
+```
