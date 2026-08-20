@@ -51,3 +51,11 @@ funciton soma(a, b) {
     return a + b
 }
 ```
+
+## Lista de taregas:
+
+- [x] Área de membros
+- [ ] Login Diferente para grupo de cliente
+- [ ]Desconto especial  para grupo de cliente
+- [ ]Intergração com outros produtos
+- [x]Sistema de bônus primeira compra
