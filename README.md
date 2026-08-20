@@ -30,6 +30,17 @@ Funcionalidades a desenvolver:
 
 #### Imagem Local
 
-![Logo do OpenLDAP](img/OpenLDAP_Logo.png)
+######################![Logo do OpenLDAP](img/OpenLDAP_Logo.png)
 
 ![Logo do RedHat](https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg)
+
+### Links interessantes:
+
+[GOOGLE](http://www.google.com.br)
+
+[http://www.uol.com.br](http://www.uol.com.br)
+
+Meu projeto: https://github.com/macielghub/curso_git_1
+
+[![Logo do OpenLDAP](img/OpenLDAP_Logo.png)](http://openldap.org)
+
